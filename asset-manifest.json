@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-chartjs-spike/static/css/main.073c9b0a.css",
+    "main.js": "/react-chartjs-spike/static/js/main.9d4b0370.js",
+    "index.html": "/react-chartjs-spike/index.html",
+    "main.073c9b0a.css.map": "/react-chartjs-spike/static/css/main.073c9b0a.css.map",
+    "main.9d4b0370.js.map": "/react-chartjs-spike/static/js/main.9d4b0370.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9d4b0370.js"
+  ]
+}
